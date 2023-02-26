@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.11",
+    "exceljs": "^4.3.0",
     "lightvue": "^1.5.1",
+    "moment": "^2.29.4",
     "pinia": "^2.0.32",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6",

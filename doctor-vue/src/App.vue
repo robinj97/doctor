@@ -7,7 +7,7 @@ import Checkin from './components/Checkin.vue'
 </script>
 
 <template>
-
+<Checkin />
 </template>
 
 <style scoped>
