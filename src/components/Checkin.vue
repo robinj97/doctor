@@ -1,7 +1,6 @@
 <template>
     <div>
         <LvButton
-    @click="signIn"
      :push="true"
      :raised="true"
      :deep-shadow="true"
@@ -14,7 +13,6 @@
     </div>
     <div>
         <LvButton
-        @click="signOut"
      :push="true"
      :raised="true"
      :deep-shadow="true"
@@ -28,7 +26,7 @@
 </template>
 
 <script lang="ts">
-import LvButton from 'lightvue/button';
+import LvButton from 'lightvue/button' 
 import moment from 'moment'
 import * as ExcelJS from 'exceljs';
 import { defineComponent } from 'vue';
