@@ -23,6 +23,7 @@
      size="xl"
  />
     </div>
+    <p>Does this work</p>
 </template>
 
 <script lang="ts">
