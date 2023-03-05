@@ -8,7 +8,6 @@ import Checkin from './components/Checkin.vue'
 
 <template>
 <Checkin />
-<p>Does this work, text is in App component</p>
 </template>
 
 <style scoped>
